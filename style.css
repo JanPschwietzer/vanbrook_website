@@ -55,6 +55,11 @@
         justify-items: center;
     }
 
+    .video {
+        visibility: hidden;
+
+    }
+
     #main {
         display: block;
         margin: auto auto 10% auto;
