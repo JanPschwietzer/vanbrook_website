@@ -34,6 +34,10 @@
 
 @media all and (max-width: 800px) {
 
+    html {
+        background-image: url("mobile-bg.jpg");
+        background-repeat: no-repeat;
+    }
     header {
         font-size: xx-large;
         display: grid;
